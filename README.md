@@ -1,4 +1,4 @@
-# 🛡️ Soberania Digital Brasil: Sistema de Defesa SovereignDefense
+# 🛡️ Soberania Digital Brasil: Sistemas de Defesa SovereignDefense
 
 ## Proposta Cívica e Técnica para a Autonomia Tecnológica Nacional
 
