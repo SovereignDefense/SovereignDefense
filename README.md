@@ -22,7 +22,7 @@ A apresentação detalhada da proposta, incluindo o Sumário Executivo, o Contex
 | :--- | :--- |
 | **Proponente** | MATEUS SILVA DOS SANTOS |
 | **Repositório** | [https://github.com/orgs/SovereignDefense](https://github.com/orgs/SovereignDefense) |
-| **Horizonte da Proposta** | 2025 |
+| **Horizonte da Proposta** | 2025 - 2030 |
 
 ---
 
